@@ -1,0 +1,24 @@
+import turtle as trtl
+import random
+painter = trtl.Turtle
+
+trtl.speed(0)
+colors = {'red', 'blue', 'purple', 'green', 'pink', 'brown'}
+
+        color = random.choice(colors)
+        painter.color("black", color)
+
+    painter.penup()
+    painter.forward(15)  # Adjust space between squares as needed
+    painter.right(90)    # Turn to draw the next square
+    painter.pendown()
+    painter.forward(i)
+    painter.right(90)
+    painter.forward(i)
+    painter.left(90)
+    painter.forward(i)
+    painter.left(90)
+    painter.forward(i)
+    painter.penup()
+    painter.forward(5)
+    painter.down()
