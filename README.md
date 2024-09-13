@@ -15,3 +15,8 @@ Zero-iteration conditions occur when a loop's condition is false from the start 
 ## Tokenizer
 
 ![image](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-JayanthVeerappa/blob/701d60bdffff7bd1112bcb3932c429e9db66d25c/Screenshot%202024-09-13%20134707.png)
+
+## Undecided Problem
+  while True:
+      pass
+The computer 
