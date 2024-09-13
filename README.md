@@ -14,7 +14,7 @@ Question 2
 ## My Python Program
 
 
-![image](https://github.com/user-attachments/assets/219347ab-938f-4e3d-8986-e189ba14932b)
+![image](Screenshot 2024-09-13 134118.png)
 
 
 
