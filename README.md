@@ -19,4 +19,4 @@ Zero-iteration conditions occur when a loop's condition is false from the start 
 ## Undecided Problem
   while True:
       pass
-The computer 
+- 
