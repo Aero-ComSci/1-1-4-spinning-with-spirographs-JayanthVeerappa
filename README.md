@@ -18,4 +18,5 @@ Zero-iteration conditions occur when a loop's condition is false from the start 
 ```
 while True:
       pass
+print('hi')
 ```
