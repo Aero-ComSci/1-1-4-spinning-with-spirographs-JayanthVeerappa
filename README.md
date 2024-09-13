@@ -14,7 +14,7 @@ Question 2
 ## My Python Program
 
 
-![image](Screenshot 2024-09-13 134118.png)
+![image](https://github.com/Aero-ComSci/1-1-4-spinning-with-spirographs-JayanthVeerappa/blob/1e98f159511768e0682b0ba8f071961cebb329c7/Screenshot%202024-09-13%20134118.png)
 
 
 
