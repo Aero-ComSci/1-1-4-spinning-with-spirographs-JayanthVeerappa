@@ -26,7 +26,6 @@ while go == False:  # this is a Zero iteration loop, it will never run because g
         
         size += size_incrm
 
-screen.mainloop()
 
 
 wn = trtl.Screen()
